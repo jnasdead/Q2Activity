@@ -1,0 +1,39 @@
+h1{
+	font-family: sans-serif; 
+	color: #6D6875;
+	text-decoration: underline;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	text-shadow: 2pc 2px 5px whitesmoke;
+}
+
+p{
+	text-indent: 25px;
+}
+span{
+	font-variant: small-caps;
+	font-weight: bold;
+	color: #E7A1B0;
+	text-shadow: 2pc 2px 5px #FFC0CB;
+}
+#external{
+	text-shadow: 2px 2px 5px #FFC0CB;
+	color: ;
+}
+body{
+	background-color: #FFE4E1;
+}
+img{
+	border-style: solid;
+	border-color: white;
+	float: right;
+}
+small{
+	color:  white;
+	text-shadow: 2px 2px 5px black;
+}
+#picture1{
+	max-width: 5%;
+	height: auto;
+	float: left;
+}
