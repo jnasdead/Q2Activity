@@ -1,0 +1,33 @@
+img{
+	height: 300px;
+	padding: 15px;
+	border-radius: 50px;
+	border-style: solid;
+	border-color: ;
+	border-width: 2px;
+	opacity: .75;
+}
+img:hover{
+	opacity: 1;
+}
+body{
+	background-color: #5D7599;
+	color: #DADADA;
+	text-align: center;
+	font-family: Arial;
+	margin: 100px;
+}
+table{
+	margin-left: auto;
+	margin-right: auto;
+}
+h1{
+	text-transform: uppercase;
+	letter-spacing: 12px;
+}
+.profile{
+	height: 8px;
+}
+footer{
+	margin-left: 900px ;
+}
